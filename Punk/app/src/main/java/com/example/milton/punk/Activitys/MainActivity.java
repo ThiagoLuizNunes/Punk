@@ -30,7 +30,7 @@ public class MainActivity extends ActionBarActivity implements AdapterView.OnIte
     private MyAdapterMenu myAdapterMenu;
 
     FragmentManager fm = getSupportFragmentManager();
-
+    //changes
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
