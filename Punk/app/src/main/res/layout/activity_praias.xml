@@ -2,25 +2,41 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+<<<<<<< HEAD
     tools:context="com.example.milton.punk.Activitys.PraiasActivity">
 
+=======
+    tools:context="com.example.milton.punk.PraiasActivity">
+
+    <include
+        android:id="@+id/my_toolbar_praias"
+        layout="@layout/app_bar_praias" />
+>>>>>>> github/master
 
     <ScrollView
         android:id="@+id/scrollView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_alignParentLeft="true"
+<<<<<<< HEAD
         android:layout_alignParentStart="true">
+=======
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/my_toolbar_praias">
+>>>>>>> github/master
 
         <LinearLayout
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
             android:orientation="vertical">
 
+<<<<<<< HEAD
             <include
                 android:id="@+id/my_toolbar_praias"
                 layout="@layout/app_bar_praias" />
 
+=======
+>>>>>>> github/master
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="48dp"
@@ -39,7 +55,11 @@
 
             <LinearLayout
                 android:layout_width="wrap_content"
+<<<<<<< HEAD
                 android:layout_height="160dp"
+=======
+                android:layout_height="130dp"
+>>>>>>> github/master
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginTop="6dp"
@@ -48,6 +68,7 @@
                 android:padding="6dp">
 
                 <LinearLayout
+<<<<<<< HEAD
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginRight="4dp"
@@ -193,10 +214,30 @@
                         android:layout_marginTop="8dp"
                         android:text="Praia Barra de Gramame"
                         android:textColor="@color/corTextSecundary" />
+=======
+                    android:orientation="vertical"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginRight="4dp">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="90dp"
+                        android:background="@drawable/areia1" />
+                    <TextView
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Areia Vermelha"
+                        android:textColor="@color/corTextSecundary"/>
+>>>>>>> github/master
 
                 </LinearLayout>
 
                 <LinearLayout
+<<<<<<< HEAD
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_marginLeft="4dp"
@@ -270,6 +311,25 @@
                         android:layout_marginTop="8dp"
                         android:text="Praia Bela"
                         android:textColor="@color/corTextSecundary" />
+=======
+                    android:orientation="vertical"
+                    android:layout_marginLeft="4dp"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="wrap_content"
+                        android:layout_height="90dp"
+                        android:background="@drawable/picao1" />
+                    <TextView
+                        android:layout_marginLeft="6dp"
+                        android:layout_marginTop="8dp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Picãozinho"
+                        android:textColor="@color/corTextSecundary"/>
+>>>>>>> github/master
                 </LinearLayout>
 
             </LinearLayout>

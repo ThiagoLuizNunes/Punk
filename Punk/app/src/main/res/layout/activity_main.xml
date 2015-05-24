@@ -26,7 +26,11 @@
 
     <fragment
         android:id="@+id/navigation_drawer"
+<<<<<<< HEAD
         android:name="com.example.milton.punk.Fragments.NavigationDrawerFragment"
+=======
+        android:name="com.example.milton.punk.NavigationDrawerFragment"
+>>>>>>> github/master
         android:layout_width="@dimen/nav_dr"
         android:layout_height="match_parent"
         android:layout_gravity="start"

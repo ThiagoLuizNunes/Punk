@@ -15,9 +15,15 @@
         <item>ToParty</item>
         <item>Praias</item>
         <item>Pontos</item>
+<<<<<<< HEAD
         <item>Cultura</item>
         <item>Restaurantes</item>
         <item>Noite</item>
+=======
+        <item>Restaurantes</item>
+        <item>Noite</item>
+        <item>Compras</item>
+>>>>>>> github/master
     </string-array>
     <string name="title_activity_praias">PraiasActivity</string>
 </resources>
