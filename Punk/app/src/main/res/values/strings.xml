@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Punk</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="itensMenu">
+        <item>Pamin</item>
+        <item>ToParty</item>
+        <item>Praias</item>
+        <item>Pontos</item>
+        <item>Restaurantes</item>
+        <item>Noite</item>
+        <item>Compras</item>
+    </string-array>
+    <string name="title_activity_praias">PraiasActivity</string>
+</resources>

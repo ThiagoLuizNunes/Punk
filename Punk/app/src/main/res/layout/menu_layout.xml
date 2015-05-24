@@ -22,7 +22,9 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:layout_marginLeft="40dp"
+            android:fontFamily="sans-serif"
             android:text="Thiago"
-            android:textStyle="bold"/>
+            android:textColor="@color/corTextSecundary"
+            android:textStyle="bold" />
     </LinearLayout>
 </LinearLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="corPrimary">#03A9F4</color>
+    <color name="corPrimaryDark">#0288D1</color>
+    <color name="corTextPrimary">#212121</color>
+    <color name="corTextSecundary">#616161</color>
+    <color name="corTextGrey">#F5F5F5</color>
+    <color name="corAccent">#15E6CD</color>
+</resources>

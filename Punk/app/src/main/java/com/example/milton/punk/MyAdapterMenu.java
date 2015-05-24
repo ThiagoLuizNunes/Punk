@@ -17,13 +17,13 @@ public class MyAdapterMenu extends BaseAdapter{
     String[] itensMenu;
 
     int[] imagens = new int[]{
-            R.drawable.icon_lazer,
             R.drawable.icon_praias,
             R.drawable.icon_praias,
-            R.drawable.icon_pontos,
-            R.drawable.icon_restaurantes,
-            R.drawable.icon_noite,
-            R.drawable.icon_compras
+            R.drawable.icon_praias,
+            R.drawable.icon_praias,
+            R.drawable.icon_praias,
+            R.drawable.icon_praias,
+            R.drawable.icon_praias
     };
 
     public MyAdapterMenu(Context context) {
