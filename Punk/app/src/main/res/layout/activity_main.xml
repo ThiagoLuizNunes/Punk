@@ -26,7 +26,7 @@
 
     <fragment
         android:id="@+id/navigation_drawer"
-        android:name="com.example.milton.punk.NavigationDrawerFragment"
+        android:name="com.example.milton.punk.Fragments.NavigationDrawerFragment"
         android:layout_width="@dimen/nav_dr"
         android:layout_height="match_parent"
         android:layout_gravity="start"
